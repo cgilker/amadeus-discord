@@ -1,0 +1,2 @@
+# amadeus-discord
+discord bot 
